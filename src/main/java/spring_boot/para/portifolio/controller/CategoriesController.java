@@ -9,9 +9,6 @@ import org.springframework.web.bind.annotation.*;
 import spring_boot.para.portifolio.dto.CategoriesDto;
 import spring_boot.para.portifolio.model.CategoriesModel;
 import spring_boot.para.portifolio.repositories.Categories;
-import spring_boot.para.portifolio.repositories.ProductRepository;
-import tools.jackson.databind.util.BeanUtil;
-
 import java.util.List;
 import java.util.Optional;
 
